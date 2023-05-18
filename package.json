@@ -1,0 +1,17 @@
+{
+  "name": "katarina",
+  "version": "1.0.0",
+  "description": "Viber bot napravljen sa ciljem vredjanje Katarine Grujic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "request": "^2.88.2",
+    "viber-bot": "^1.0.18"
+  }
+}
